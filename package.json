@@ -1,0 +1,18 @@
+{
+    "name": "camera-custom-plugin",
+    "version": "0.12.0",
+    "description": "Cordova custom plugin",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/diondre2/camera-custom-plugin"
+    },
+    "author": {
+      "name": "Diondre Lewis"
+    },
+    "license": "Apache 2.0",
+    "homepage": "",
+    "typings": "typescript/CameraPreview.d.ts",
+    "dependencies": {
+    },
+    "devDependencies": {}
+  }
